@@ -1,4 +1,4 @@
-package net.iceyang.service
+package net.iceyang.db
 
 import reactivemongo.api._
 import reactivemongo.core.nodeset._
